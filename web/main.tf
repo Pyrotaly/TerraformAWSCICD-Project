@@ -1,5 +1,5 @@
 #ec2
-#value from one module to another...
+#value from one module to another
 
 resource "aws_instance" "server" {
   ami = "ami-0b72821e2f351e396"
